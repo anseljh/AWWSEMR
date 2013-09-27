@@ -8,5 +8,6 @@ will be my law office. A Word plug-in will detect awful legalese and task the ro
 with a mission. Upon receiving a mission over the wireless network, AWWSEMR will then 
 navigate to the appropriate workstation and audibly heckle the guilty party. The first 
 prototype design of AWWSEMR consists of a Raspberry Pi single-board Linux computer, 
-a magnetometer for indoor navigation, custom circuits for driving motors and handling 
-I/O, and a tilt/pan servo mechanism for aiming a laser.
+an Arduino, a magnetometer for indoor navigation, custom circuits for driving motors 
+and handling I/O, and a tilt/pan servo mechanism for aiming a harmless but 
+attention-grabbing laser.
